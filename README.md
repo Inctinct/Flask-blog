@@ -1,6 +1,10 @@
 # Flask-blog
 
-Install requirements: pip install Flask pip install Flask_SQLAlchemy pip install flask_migrate pip install psycopg2
+Install requirements: 
+pip install Flask 
+pip install Flask_SQLAlchemy
+pip install flask_migrate 
+pip install psycopg2
 
 Create database. I am using postgres. To work correctly, you need to manually create the database.
 And specify the correct path to the database:
